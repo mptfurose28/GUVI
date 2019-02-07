@@ -1,6 +1,6 @@
-a = int(raw_input("enter a number"))
+a = int(raw_input())
 if(a%2)==0:  
-    print("it is even number")   
+    print("Even")   
 else:
-    print("it is odd number")       
+    print("Odd")       
       
