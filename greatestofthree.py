@@ -1,3 +1,4 @@
+#furose
 aaa =input()
 aaa=aaa.split()
 num1=int(aaa[0])
