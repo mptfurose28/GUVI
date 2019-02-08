@@ -1,3 +1,4 @@
+#furose
 a=input().split()
 n=int(a[0])
 q=int(a[1])
